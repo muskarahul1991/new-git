@@ -1,0 +1,15 @@
+git hub 
+user name:rahulmuska@gmail.com
+password:Rahulsurya@2023
+username:muskarahul991
+
+
+
+aws console
+
+root user:rahulmuska@gmail.com
+password:Rahul@2023
+
+
+Iam user:Sirisha1993
+password:Sirisha@2023
